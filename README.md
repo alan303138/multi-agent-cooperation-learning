@@ -1,7 +1,9 @@
 # multi-agent-cooperation-learning
 [Test video for double split](https://www.youtube.com/watch?v=ggW4rw5KgWI)
+
 [Test video for double push](https://www.youtube.com/watch?v=lFV_hoGTjbc)
-The performance is not really good.
+
+
 
 In 2019/2020, OpenAI published a paper called "Emergent Tool Use from Multi-Agent Autocurricula", by Baker et al., which generated a lot of momentum in the multi-agent Deep Reinforcement Learning field. This is a project based on OpenAI's multi-agent-emergence-environments (the code released by OpenAI after the publication of the paper) and uses OpenAI's framework to build a new environment (MACL) where developers can deploy their own experiments in order to study good ways to foster cooperation intelligence between agents and machines. There are four experiments already implemented in the MACL.py file. Note that this repository should be used in conjunction with OpenAI gym, the "Spinningup in Deep RL" repository, mujoco-worldgen and multi-agent-emergence-environments.
 
